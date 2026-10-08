@@ -1,7 +1,5 @@
 # React Routes
 
-## Project Overview
-
 React Routes is a simple React application built to practice and demonstrate client-side routing using React Router. It includes multiple pages, nested routes, dynamic product routes, protected routes, and a custom 404 page.
 
 ## Live Demo
